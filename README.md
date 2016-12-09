@@ -1,4 +1,5 @@
 # New
 none
 
-nie nieco
+
+zmazane a pridane
